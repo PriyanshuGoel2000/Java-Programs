@@ -6,7 +6,7 @@ public class Activity104 {
 	{
 		Scanner in=new Scanner(System.in);
 		System.out.println("Enter a String");
-		String s=in.nextLine(),s1="";
+		String s=in.nextLine();
 		int l = s.length();
 		
 	      char ch[]=s.toCharArray();
